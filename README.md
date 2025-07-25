@@ -42,8 +42,8 @@ A responsive frontend clone of Spotify's web player, built using HTML, CSS, and 
 ---
 
 ## Screenshots
+<img width="1889" height="910" alt="image" src="https://github.com/user-attachments/assets/898991f5-feb2-4788-a735-8564d4528b13" />
 
-> Replace these with your own screenshots if desired.
 
 ![Main UI](./card1img.jpeg)
 *Sample card image from the UI*
